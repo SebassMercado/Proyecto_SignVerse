@@ -1,0 +1,23 @@
+
+
+.card {
+    background: rgba(7, 179, 213, 0.6);  /* Azul transparente */
+    padding: 40px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    width: 100%;
+    max-width: 500px;
+}
+
+/* Imagen más pequeña */
+.logo-img {
+    width: 300px;  /* Tamaño reducido de la imagen */
+    height: auto;
+    margin-bottom: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
